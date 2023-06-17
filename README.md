@@ -1,6 +1,6 @@
 # defer-cpp
 
-## Golang "defer" analogue in c++
+## Golang and Zig "defer" analogue in c++
 ## Examples to use and tests is in [main.cpp](main.cpp)
 ## Results of tests
 ```
