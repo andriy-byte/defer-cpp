@@ -1,3 +1,0 @@
-/media/andriy/30F44312F442D9AC/dev/libs/own/defer/cmake-build-debug/CMakeFiles/defer.dir
-/media/andriy/30F44312F442D9AC/dev/libs/own/defer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/andriy/30F44312F442D9AC/dev/libs/own/defer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
