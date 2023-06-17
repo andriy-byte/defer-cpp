@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G Ninja -S /media/andriy/30F44312F442D9AC/dev/libs/own/defer -B /media/andriy/30F44312F442D9AC/dev/libs/own/defer/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/andriy/30F44312F442D9AC/dev/libs/own/defer/cmake-build-debug
