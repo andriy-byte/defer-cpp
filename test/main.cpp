@@ -1,5 +1,5 @@
 #include <iostream>
-#include "include/defer.hpp"
+#include "../include/defer.hpp"
 
 #define TEST(x) void test##x()
 
